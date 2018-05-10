@@ -1,0 +1,52 @@
+---
+title: eyaltrabelsi.github.io
+description: Eyal's thoughts on data & technologies.
+baseurl: 
+url: http://eyaltrabelsi.github.io
+username: Eyal Trabelsi
+user_title: Eyal Trabelsi - Senior Data Engineer
+email: eyaltrabelsi@gmail.com
+github_username: eyaltrabelsi
+linkedin_username: eyaltrabelsi
+markdown: kramdown
+highlighter: rouge
+permalink: "/:title/"
+compress_html:
+  clippings: all
+  comments: all
+  endings: []
+  profile: false
+links:
+- title: home
+  url: "/"
+- title: my posts
+  url: "/posts"
+- title: series
+  url: "/series"
+- title: tags
+  url: "/tags"
+- title: about me
+  url: "/about"
+projects:
+- name: my-notebooks
+  url: https://github.com/eyaltrabelsi/my-notebooks
+- name: salesforce_magic
+  url: https://github.com/eyaltrabelsi/salesforce_magic
+- name: text_visualization_magic
+  url: https://github.com/eyaltrabelsi/text_visualization_magic
+open_source_contributions:
+- name: awesome-apache-airflow
+  url: https://github.com/jghoman/awesome-apache-airflow/pull/3
+- name: amazon-redshift-utils
+  url: https://github.com/awslabs/amazon-redshift-utils/commit/8814461f269c7180a80de3d3c5a8c3c55d9c2bc0
+- name: incubator-airflow
+  url: https://github.com/apache/incubator-airflow/pull/2708
+- name: python-nomad
+  url: https://github.com/jrxFive/python-nomad/pull/48
+- name: metorikku
+  url: https://github.com/YotpoLtd/metorikku/commits?author=etrabelsi
+
+exclude:
+- package.json
+- src
+- node_modules
