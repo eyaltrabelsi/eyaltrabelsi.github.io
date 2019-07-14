@@ -12,6 +12,6 @@ I had the opportunity to spend an teach about more advance and lesser known topi
 - string aggregations 
 - basic nlp
     
-You can find the slides here:  [Advance SQL - Strings](https://www.slideshare.net/EyalTrabelsi/advance-sql-session-2)
+You can find the slides here:  [Advance SQL - Strings](https://www.slideshare.net/EyalTrabelsi/advance-sql-session-strings)
 
 Let me know what you think, and feel free to reach out with any feedback. 
