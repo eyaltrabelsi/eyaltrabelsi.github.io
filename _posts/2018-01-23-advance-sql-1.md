@@ -10,6 +10,6 @@ I had the opportunity to spend an teach about more advance and lesser known topi
 - dynamic queries
 - spaghetti queries
     
-You can find the slides here: [Advance SQL Session-1](https://www.slideshare.net/EyalTrabelsi/advance-sql-session-1)
+You can find the slides here: [Advance SQL Session-1](https://www.slideshare.net/EyalTrabelsi/bring-sanity-back-to-sql-advance-sql)
 
 Let me know what you think, and feel free to reach out with any feedback. 
