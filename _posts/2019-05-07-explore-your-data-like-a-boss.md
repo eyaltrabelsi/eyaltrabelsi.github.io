@@ -10,5 +10,5 @@ In our modern era, companies have more data available to them. This data is empo
 The first major step of this process is Exploratory Data Analysis (EDA), for developing a general gist of what the data looks like, and what kind of insights this data may provide.
 
 In this post, I will discuss a few libraries that will make your EDA work much easier and empower you to conduct your own EDA with only a few lines of python
-[Medium Link](https://medium.com/@Eyaltra/explore-your-data-like-a-boss-9e80f2ed176e)
+[Medium Link](https://medium.com/@Eyaltra/explore-your-data-like-a-boss-9e80f2ed176e), [Youtube link](https://www.youtube.com/watch?v=ue889FbMyQE&t=6s).
 
