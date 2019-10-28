@@ -32,11 +32,13 @@ projects:
   url: https://github.com/eyaltrabelsi/my-notebooks
 - name: salesforce_magic
   url: https://github.com/eyaltrabelsi/salesforce_magic
-- name: text_visualization_magic
-  url: https://github.com/eyaltrabelsi/text_visualization_magic
+- name: pandas-log
+  url: https://github.com/eyaltrabelsi/pandas-log
 open_source_contributions:
-- name: awesome-apache-airflow
-  url: https://github.com/jghoman/awesome-apache-airflow/pull/3
+- name: pandas-flavor
+  url: https://github.com/Zsailer/pandas_flavor/pull/15
+- name: pyjanitor
+  url: https://github.com/ericmjl/pyjanitor/pulls?utf8=%E2%9C%93&q=is%3Aclosed+mentions%3Aeyaltrabelsi
 - name: amazon-redshift-utils
   url: https://github.com/awslabs/amazon-redshift-utils/commit/8814461f269c7180a80de3d3c5a8c3c55d9c2bc0
 - name: incubator-airflow
